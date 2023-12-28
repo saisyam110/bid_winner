@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bid_winner/static/css/main.3f5f3733.css",
-    "main.js": "/bid_winner/static/js/main.2b224ed1.js",
+    "main.js": "/bid_winner/static/js/main.673117e7.js",
     "static/js/787.9e561de2.chunk.js": "/bid_winner/static/js/787.9e561de2.chunk.js",
     "static/media/profile.avif": "/bid_winner/static/media/profile.287a61fcf986cd659a76.avif",
     "static/media/logo_bd.jpg": "/bid_winner/static/media/logo_bd.88282e8d68861753bd56.jpg",
     "index.html": "/bid_winner/index.html",
     "main.3f5f3733.css.map": "/bid_winner/static/css/main.3f5f3733.css.map",
-    "main.2b224ed1.js.map": "/bid_winner/static/js/main.2b224ed1.js.map",
+    "main.673117e7.js.map": "/bid_winner/static/js/main.673117e7.js.map",
     "787.9e561de2.chunk.js.map": "/bid_winner/static/js/787.9e561de2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f5f3733.css",
-    "static/js/main.2b224ed1.js"
+    "static/js/main.673117e7.js"
   ]
 }
