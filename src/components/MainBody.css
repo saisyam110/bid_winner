@@ -1,0 +1,44 @@
+.acceptedBar {
+  padding-bottom: 0px !important;
+  background-color: #06b43a !important;
+  display: flex;
+  align-items: center !important;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  color: white;
+}
+.custom_main {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif !important;
+}
+.mainbtn {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+.mainbtn1 {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+
+@media screen and (max-width: 1000px) {
+  .mainbtn {
+    font-size: xx-small !important;
+    padding-left: 1rem !important;
+    padding-right: 2rem !important;
+  }
+}
+@media screen and (max-width: 1030px) {
+  .mainbtn1 {
+    font-size: xx-small !important;
+    width: 30% !important;
+  }
+}
+@media screen and (max-width: 650px) {
+  .mainbtn1 {
+    width: 40% !important;
+    padding-right: 2rem !important;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .option_name {
+    display: none;
+  }
+}

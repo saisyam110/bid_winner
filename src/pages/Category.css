@@ -1,0 +1,12 @@
+@media screen and (max-width: 1300px) {
+  .search_bar {
+    width: 80% !important;
+    font-size: xx-small !important;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .search_bar {
+    display: none;
+  }
+}
